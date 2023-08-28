@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "70140424215",
+    "project_id": "saigai-771de",
+    "storage_bucket": "saigai-771de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70140424215:android:801ca1fc12e45ab3caac52",
+        "android_client_info": {
+          "package_name": "jp.ac.Saigai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70140424215-r668pn5vl5nhb9ltlo502e5vulh6suel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjBXC39Etu9J7eS_oxofgTdzRK7UJPCLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70140424215-r668pn5vl5nhb9ltlo502e5vulh6suel.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70140424215-1dujr9t5kvucg0rpie4lljr4bpnl1p4m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.ac.Saigai.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70140424215:android:369f0b9d9eaa878dcaac52",
+        "android_client_info": {
+          "package_name": "jp.ac.test005"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70140424215-r668pn5vl5nhb9ltlo502e5vulh6suel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjBXC39Etu9J7eS_oxofgTdzRK7UJPCLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70140424215-r668pn5vl5nhb9ltlo502e5vulh6suel.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70140424215-1dujr9t5kvucg0rpie4lljr4bpnl1p4m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.ac.Saigai.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,3137 @@
+[
+    {
+        "prefecture": "北海道",
+        "city": "札幌市",
+        "url": "https://www.city.sapporo.jp/kikikanri/tsunamimap.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "函館市",
+        "url": "https://www.hazardmap.city.hakodate.hokkaido.jp/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "小樽市",
+        "url": "https://www.city.otaru.lg.jp/docs/2020101000929/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "室蘭市",
+        "url": "https://www.city.muroran.lg.jp/main/org3250/zentaizu.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "釧路市",
+        "url": "https://www.city.kushiro.lg.jp/kurashi/bousai/1003697/index.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "北見市",
+        "url": "https://www.city.kitami.lg.jp/administration/disaster/detail.php?content=2003"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "網走市",
+        "url": "https://www.city.abashiri.hokkaido.jp/005emergency/saigai/top-bousai-guidebook-hazard-tsunami.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "留萌市",
+        "url": "https://www.e-rumoi.jp/soumu/sou_00016.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "苫小牧市",
+        "url": "https://www.city.tomakomai.hokkaido.jp/kurashi/bosai/jishin/handbook.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "稚内市",
+        "url": "https://www.city.wakkanai.hokkaido.jp/kurashi/bosaibohankotsuanzen/bosai/gaidomap.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "紋別市",
+        "url": "https://mombetsu.jp/prevention/?content=956"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "根室市",
+        "url": "https://www.city.nemuro.hokkaido.jp/section/hazardmap/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "登別市",
+        "url": "https://www.city.noboribetsu.lg.jp/docs/2022021800047/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "伊達市",
+        "url": "https://www.city.date.hokkaido.jp/hotnews/detail/00000351.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "石狩市",
+        "url": "https://www.city.ishikari.hokkaido.jp/soshiki/kiki/33393.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "北斗市",
+        "url": "https://www.city.hokuto.hokkaido.jp/docs/6513.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "松前町",
+        "url": "https://www.town.matsumae.hokkaido.jp/hotnews/detail/00000192.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "福島町",
+        "url": "http://www.town.fukushima.hokkaido.jp/bosai/bousaimap/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "知内町",
+        "url": "http://www.town.shiriuchi.hokkaido.jp/kurashi/bosai/bousaimap.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "木古内町",
+        "url": "https://www.town.kikonai.hokkaido.jp/bosai/bosaimap.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "鹿部町",
+        "url": "https://www.town.shikabe.lg.jp/kurashi_tetsuzuki/anzen_anshin/bosai/2/1140.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "森町",
+        "url": "https://www.town.hokkaido-mori.lg.jp/bunya/tsunami/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "八雲町",
+        "url": "https://www.town.yakumo.lg.jp/soshiki/soumu/hazadomap2022.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "長万部町",
+        "url": "https://www.town.oshamambe.lg.jp/life/6/23/91/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "江差町",
+        "url": "https://www.hokkaido-esashi.jp/modules/lifeinfo/content0985.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "上ノ国町",
+        "url": "http://www.town.kaminokuni.lg.jp/hotnews/detail/00002266.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "乙部町",
+        "url": "https://www.town.otobe.lg.jp/section/soumu/e0taal0000000jho.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "奥尻町",
+        "url": "https://www.town.okushiri.lg.jp/hotnews/detail/00003705.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "せたな町",
+        "url": "https://www.town.setana.lg.jp/kurashi/bousai/post_136.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "島牧村",
+        "url": "https://www.vill.shimamaki.lg.jp/category/detail.php?category=prevention&content=21"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "寿都町",
+        "url": "http://www.town.suttu.lg.jp/disaster/detail.php?id=83"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "蘭越町",
+        "url": "https://www.town.rankoshi.hokkaido.jp/administration/life/detail.html?content=249"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "共和町",
+        "url": "https://www.town.kyowa.hokkaido.jp/files/2023bousaiguide.pdf"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "岩内町",
+        "url": "https://www.town.iwanai.hokkaido.jp/?page_id=29181"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "泊村",
+        "url": "https://www.vill.tomari.hokkaido.jp/kurashi/anzenbosai/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "積丹町",
+        "url": "https://www.town.shakotan.lg.jp/contents/content0640.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "古平町",
+        "url": "http://www.town.furubira.lg.jp/life/detail.php?id=20"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "余市町",
+        "url": "https://www.town.yoichi.hokkaido.jp/kurashi/kurashinojouhou/bousai/2018-0410-1723-1.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "増毛町",
+        "url": "https://www.town.mashike.hokkaido.jp/menu/bousai/hazardmap/index.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "小平町",
+        "url": "https://www.town.obira.hokkaido.jp/hotnews/detail/00002544.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "苫前町",
+        "url": "http://www.town.tomamae.lg.jp/section/somu/lg6iib00000000cj.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "羽幌町",
+        "url": "http://www.town.haboro.lg.jp/kurashi/bousai-bouhan/bousai_map/index.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "初山別村",
+        "url": "http://www.vill.shosanbetsu.lg.jp/shosanbetsu/?page_id=329"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "遠別町",
+        "url": "http://www.town.embetsu.hokkaido.jp/bunya/bosaigai/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "天塩町",
+        "url": "https://www.teshiotown.hokkaido.jp/?page_id=17345"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "浜頓別町",
+        "url": "http://www.town.hamatonbetsu.hokkaido.jp/disaster/detail.php?content=632"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "枝幸町",
+        "url": "https://www.esashi.jp/life/page.html?id=26"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "豊富町",
+        "url": "https://www.town.toyotomi.hokkaido.jp/section/soumuka/a7cug60000000neb.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "礼文町",
+        "url": "https://www.town.rebun.hokkaido.jp/hotnews/detail/00001424.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "利尻町",
+        "url": "http://www.town.rishiri.hokkaido.jp/rishiri/1077.htm"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "利尻富士町",
+        "url": "https://www.town.rishirifuji.hokkaido.jp/rishirifuji/1176.htm"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "幌延町",
+        "url": "https://www.town.horonobe.lg.jp/www4/section/soumu/le009f00000002k9.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "斜里町",
+        "url": "https://www.town.shari.hokkaido.jp/soshikikarasagasu/kikakusomuka/kikakukakari/bousai/947.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "小清水町",
+        "url": "https://www.town.koshimizu.hokkaido.jp/hotnews/detail/00005586.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "佐呂間町",
+        "url": "http://www.town.saroma.hokkaido.jp/emergency/hazardmap.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "湧別町",
+        "url": "https://www.town.yubetsu.lg.jp/administration/life/detail.html?content=191"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "興部町",
+        "url": "https://www.town.okoppe.lg.jp/cms/section/soumu/opbvt100000009a4.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "雄武町",
+        "url": "https://www.town.oumu.hokkaido.jp/kurashi_tetsuzuki/anshin_anzen/bosai/1/2585.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "大空町",
+        "url": "https://www.town.ozora.hokkaido.jp/izatoiutoki/2778.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "豊浦町",
+        "url": "https://www.town.toyoura.hokkaido.jp/hotnews/detail/00005096.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "白老町",
+        "url": "https://www.town.shiraoi.hokkaido.jp/docs/page2022021800023.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "厚真町",
+        "url": "https://www.town.atsuma.lg.jp/office/disaster-prevention/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "洞爺湖町",
+        "url": "http://www.town.toyako.hokkaido.jp/bousai_info/tsunami_hazard_map/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "むかわ町",
+        "url": "http://www.town.mukawa.lg.jp/2729.htm"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "日高町",
+        "url": "http://www.town.hidaka.hokkaido.jp/soshiki/soumu/bosai-index.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "新冠町",
+        "url": "https://www.niikappu.jp/kurashi/bosai/bosai/tunami-map.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "浦河町",
+        "url": "https://www.town.urakawa.hokkaido.jp/gyosei/prevention/?category=153"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "様似町",
+        "url": "http://www.samani.jp/bousai/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "えりも町",
+        "url": "https://www.town.erimo.lg.jp/section/kikaku/u9c3nn00000004rq.html#s0"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "新ひだか町",
+        "url": "https://www.shinhidaka-hokkaido.jp/hotnews/detail/00000054.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "大樹町",
+        "url": "https://www.town.taiki.hokkaido.jp/soshiki/soumu/bousai/hazard.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "広尾町",
+        "url": "https://www.town.hiroo.lg.jp/kurashi/anshin/bousai/bousaimappu/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "幕別町",
+        "url": "https://www.town.makubetsu.lg.jp/bousai/bosai/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "豊頃町",
+        "url": "https://www.toyokoro.jp/hazardmap/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "浦幌町",
+        "url": "https://www.urahoro.jp/bosai_bohan_kotsu/bosai/hazard_map.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "釧路町",
+        "url": "http://www.town.kushiro.lg.jp/disaster/keikaku/hazard.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "厚岸町",
+        "url": "https://www.akkeshi-town.jp/bousai/bousaitaisaku_05/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "浜中町",
+        "url": "https://www.townhamanaka.jp/kurashi_kankyou/bousai/bousai_map.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "白糠町",
+        "url": "https://www.town.shiranuka.lg.jp/section/kikaku/nfml630000001f5s.html"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "別海町",
+        "url": "https://betsukai.jp/anzen/bosai/betsukai_hazardmap/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "標津町",
+        "url": "https://shibetsutown-bousai.jp/"
+    },
+    {
+        "prefecture": "北海道",
+        "city": "羅臼町",
+        "url": "https://www.rausu-town.jp/pages/view/288"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "青森市",
+        "url": "https://www.city.aomori.aomori.jp/kikikanri/anzen-kinkyu/bousai-syoubou/tsunami-hazard.html"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "八戸市",
+        "url": "https://www.city.hachinohe.aomori.jp/kurashi_tetsuzuki/kurashinoanzen_anshin/bosaijoho/1/8950.html"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "五所川原市",
+        "url": "https://www.city.goshogawara.lg.jp/kurashi/bousai/tsunami_hm.html"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "三沢市",
+        "url": "\"https://www.city.misawa.lg.jp/index.cfm/11"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "むつ市",
+        "url": "https://www.city.mutsu.lg.jp/government/bousai/bousaimap/bousai-map.html"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "つがる市",
+        "url": "https://www.city.tsugaru.aomori.jp/saigai/3781.html"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "平内町",
+        "url": "https://www.town.hiranai.aomori.jp/kurashi/bosai/1/1161.html"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "今別町",
+        "url": "https://www.town.imabetsu.lg.jp/kurashi/bousai/2021-1224-1056-1.html"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "蓬田村",
+        "url": "https://www.vill.yomogita.lg.jp/kurashi/bousai/jishin_tsunami.html"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "外ヶ浜町",
+        "url": "http://www.town.sotogahama.lg.jp/kurashi/bousai/bousai.html"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "鰺ヶ沢町",
+        "url": "https://www.town.ajigasawa.lg.jp/bosai_jyoho/tsunami_hazardmap.html"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "深浦町",
+        "url": "https://www.town.fukaura.lg.jp/fixed_docs/2023030100029/"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "中泊町",
+        "url": "https://www.town.nakadomari.lg.jp/kurashi_tetsuzuki/anzen_anshin/bosai/1/1992.html"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "野辺地町",
+        "url": "http://www.town.noheji.aomori.jp/life/seikatsu/bosai/bosai-guide"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "横浜町",
+        "url": "\"http://www.town.yokohama.lg.jp/index.cfm/8"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "六ヶ所村",
+        "url": "\"https://www.rokkasho.jp/index.cfm/9"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "おいらせ町",
+        "url": "https://www.town.oirase.aomori.jp/soshiki/1220/anzenmap.html"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "大間町",
+        "url": "https://www.town.ooma.lg.jp/life/guide/syoubou/tsunami-hazardmap"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "東通村",
+        "url": "http://www.vill.higashidoori.lg.jp/soumu/page000016.html"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "風間浦村",
+        "url": "https://www.kazamaura.jp/villager/%e9%98%b2%e7%8a%af%e3%83%bb%e9%98%b2%e7%81%bd/"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "佐井村",
+        "url": "http://www.vill.sai.lg.jp/くらしの情報/防災/津波ハザードマップ/"
+    },
+    {
+        "prefecture": "青森県",
+        "city": "階上町",
+        "url": "\"https://www.town.hashikami.lg.jp/index.cfm/9"
+    },
+    {
+        "prefecture": "岩手県",
+        "city": "宮古市",
+        "url": "https://www.city.miyako.iwate.jp/kikikanri/miyako_hazardmap.html"
+    },
+    {
+        "prefecture": "岩手県",
+        "city": "大船渡市",
+        "url": "https://www.city.ofunato.iwate.jp/soshiki/bousai/1098.html"
+    },
+    {
+        "prefecture": "岩手県",
+        "city": "久慈市",
+        "url": "https://bousai.city.kuji.iwate.jp/contents/pc/hazardmap.html"
+    },
+    {
+        "prefecture": "岩手県",
+        "city": "陸前高田市",
+        "url": "https://www.city.rikuzentakata.iwate.jp/bosai_anzen/bosai_shobo/bosai/2/3900.html"
+    },
+    {
+        "prefecture": "岩手県",
+        "city": "釜石市",
+        "url": "https://kamaishi.nigedoki-map.com/"
+    },
+    {
+        "prefecture": "岩手県",
+        "city": "大槌町",
+        "url": "https://www.town.otsuchi.iwate.jp/gyosei/docs/437682.html"
+    },
+    {
+        "prefecture": "岩手県",
+        "city": "岩泉町",
+        "url": "https://www.town.iwaizumi.lg.jp/docs/2016072600022/"
+    },
+    {
+        "prefecture": "岩手県",
+        "city": "田野畑村",
+        "url": "https://www.vill.tanohata.iwate.jp/docs/2017022000039/"
+    },
+    {
+        "prefecture": "岩手県",
+        "city": "野田村",
+        "url": "https://www.vill.noda.iwate.jp/kurashi_tetsuzuki/anzen_anshin/bosai/hazard_map/1017.html"
+    },
+    {
+        "prefecture": "岩手県",
+        "city": "洋野町",
+        "url": "https://www.town.hirono.iwate.jp/doc/2018041000031/"
+    },
+    {
+        "prefecture": "宮城県",
+        "city": "仙台市",
+        "url": "https://www.city.sendai.jp/hinan/kurashi/anzen/saigaitaisaku/jishintsunami/tsunami.html#tebiki"
+    },
+    {
+        "prefecture": "宮城県",
+        "city": "石巻市",
+        "url": "https://www.city.ishinomaki.lg.jp/cont/10106000/8238/8238.html"
+    },
+    {
+        "prefecture": "宮城県",
+        "city": "塩竈市",
+        "url": "https://www.city.shiogama.miyagi.jp/soshiki/9/38664.html"
+    },
+    {
+        "prefecture": "宮城県",
+        "city": "気仙沼市",
+        "url": "https://www.kesennuma.miyagi.jp/sec/s009/010/010/010/020/1253258421312.html"
+    },
+    {
+        "prefecture": "宮城県",
+        "city": "名取市",
+        "url": "https://www.city.natori.miyagi.jp/soshiki/soumu/node_224/node_91088"
+    },
+    {
+        "prefecture": "宮城県",
+        "city": "多賀城市",
+        "url": "https://www.city.tagajo.miyagi.jp/bosai/kurashi/bosai/bosai/shite.html"
+    },
+    {
+        "prefecture": "宮城県",
+        "city": "岩沼市",
+        "url": "https://www.city.iwanuma.miyagi.jp/bosai/bosai-bohan/bosai/2023-0425-1400-39.html"
+    },
+    {
+        "prefecture": "宮城県",
+        "city": "東松島市",
+        "url": "https://www.city.higashimatsushima.miyagi.jp/bosaimap/"
+    },
+    {
+        "prefecture": "宮城県",
+        "city": "亘理町",
+        "url": "https://www.town.watari.miyagi.jp/life/detail.php?content=426"
+    },
+    {
+        "prefecture": "宮城県",
+        "city": "山元町",
+        "url": "https://www.town.yamamoto.miyagi.jp/soshiki/1/14406.html"
+    },
+    {
+        "prefecture": "宮城県",
+        "city": "松島町",
+        "url": "\"https://www.town.miyagi-matsushima.lg.jp/index.cfm/6"
+    },
+    {
+        "prefecture": "宮城県",
+        "city": "七ヶ浜町",
+        "url": "https://www.shichigahama.com/benricho/otoiawase/bousai.html"
+    },
+    {
+        "prefecture": "宮城県",
+        "city": "利府町",
+        "url": "https://www.town.rifu.miyagi.jp/gyosei/bosai_anzen/bosai/3/1426.html"
+    },
+    {
+        "prefecture": "宮城県",
+        "city": "女川町",
+        "url": "https://www.town.onagawa.miyagi.jp/emer/bousai/05_03.html"
+    },
+    {
+        "prefecture": "宮城県",
+        "city": "南三陸町",
+        "url": "\"http://www.town.minamisanriku.miyagi.jp/index.cfm/30"
+    },
+    {
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "url": "https://www.city.akita.lg.jp/bosai-kinkyu/1022356/index.html"
+    },
+    {
+        "prefecture": "秋田県",
+        "city": "能代市",
+        "url": "https://www.city.noshiro.lg.jp/kurashi/bosai-shobo/bosai-joho/12524"
+    },
+    {
+        "prefecture": "秋田県",
+        "city": "男鹿市",
+        "url": "https://www.city.oga.akita.jp/soshik/kiki/bosai/4/1374.html"
+    },
+    {
+        "prefecture": "秋田県",
+        "city": "由利本荘市",
+        "url": "https://www.city.yurihonjo.lg.jp/1000005/1001972/1001981/1004108.html"
+    },
+    {
+        "prefecture": "秋田県",
+        "city": "潟上市",
+        "url": "https://www.city.katagami.lg.jp/soshiki/somu/somu/kikikanri/bosai/855.html"
+    },
+    {
+        "prefecture": "秋田県",
+        "city": "にかほ市",
+        "url": "https://www.city.nikaho.akita.jp/soshikikarasagasu/bosaika/gyomuannai/1/2/1/3670.html"
+    },
+    {
+        "prefecture": "秋田県",
+        "city": "三種町",
+        "url": "https://www.town.mitane.akita.jp/kurashi_tetsuzuki/shobo_bosai/1870.html"
+    },
+    {
+        "prefecture": "秋田県",
+        "city": "八峰町",
+        "url": "https://www.town.happo.lg.jp/archive/contents-129"
+    },
+    {
+        "prefecture": "秋田県",
+        "city": "五城目町",
+        "url": "https://www.town.gojome.akita.jp/hazardmap/"
+    },
+    {
+        "prefecture": "秋田県",
+        "city": "八郎潟町",
+        "url": "https://www.town.hachirogata.akita.jp/kurashi/1001457/1001461/1001595.html"
+    },
+    {
+        "prefecture": "秋田県",
+        "city": "井川町",
+        "url": "http://www.town.ikawa.akita.jp/docs/2016021900029/"
+    },
+    {
+        "prefecture": "秋田県",
+        "city": "大潟村",
+        "url": "https://www.vill.ogata.akita.jp/archive/contents-12"
+    },
+    {
+        "prefecture": "山形県",
+        "city": "鶴岡市",
+        "url": "https://www.city.tsuruoka.lg.jp/anzen/tsunami/tunamimap.html"
+    },
+    {
+        "prefecture": "山形県",
+        "city": "酒田市",
+        "url": "https://www.city.sakata.lg.jp/bousai/bousai/tsunami/tsunami-hazardmap.html"
+    },
+    {
+        "prefecture": "山形県",
+        "city": "三川町",
+        "url": "https://www.town.mikawa.yamagata.jp/kurashi/kikikanri/bousai/thazard.html"
+    },
+    {
+        "prefecture": "山形県",
+        "city": "遊佐町",
+        "url": "https://www.town.yuza.yamagata.jp/ou/somu/kikikanri/3213.html"
+    },
+    {
+        "prefecture": "福島県",
+        "city": "いわき市",
+        "url": "https://www.city.iwaki.lg.jp/www/contents/1001000003871/index.html"
+    },
+    {
+        "prefecture": "福島県",
+        "city": "相馬市",
+        "url": "https://www.city.soma.fukushima.jp/bosai_anzen/saigainisonaete/hazard_map/1906.html"
+    },
+    {
+        "prefecture": "福島県",
+        "city": "南相馬市",
+        "url": "https://www.city.minamisoma.lg.jp/portal/safety/bosai/2/3585.html"
+    },
+    {
+        "prefecture": "福島県",
+        "city": "楢葉町",
+        "url": "https://www.town.naraha.lg.jp/life/cat317/cat333/005644.html"
+    },
+    {
+        "prefecture": "福島県",
+        "city": "富岡町",
+        "url": "https://www.tomioka-town.jp/soshiki/seikatsu_kankyo/shobokoutsu/oshirase/3056.html"
+    },
+    {
+        "prefecture": "福島県",
+        "city": "双葉町",
+        "url": "https://www.town.fukushima-futaba.lg.jp/9360.htm"
+    },
+    {
+        "prefecture": "福島県",
+        "city": "浪江町",
+        "url": "https://www.town.namie.fukushima.jp/soshiki/1/18908.html"
+    },
+    {
+        "prefecture": "福島県",
+        "city": "新地町",
+        "url": "https://www.shinchi-town.jp/soshiki/1/bousaimap.html"
+    },
+    {
+        "prefecture": "茨城県",
+        "city": "水戸市",
+        "url": "https://www.city.mito.lg.jp/site/saigaiinfo/4008.html"
+    },
+    {
+        "prefecture": "茨城県",
+        "city": "日立市",
+        "url": "https://www.city.hitachi.lg.jp/moshimo/002/005/index.html"
+    },
+    {
+        "prefecture": "茨城県",
+        "city": "高萩市",
+        "url": "https://www.city.takahagi.ibaraki.jp/kurashi/shoubou_bousai_bouhan/bousai/page000785.html"
+    },
+    {
+        "prefecture": "茨城県",
+        "city": "北茨城市",
+        "url": "https://www.city.kitaibaraki.lg.jp/docs/2015110200019/"
+    },
+    {
+        "prefecture": "茨城県",
+        "city": "ひたちなか市",
+        "url": "https://www.city.hitachinaka.lg.jp/kurashi/bosai/1003135/1004159.html"
+    },
+    {
+        "prefecture": "茨城県",
+        "city": "鹿嶋市",
+        "url": "https://city.kashima.ibaraki.jp/soshiki/34/60148.html"
+    },
+    {
+        "prefecture": "茨城県",
+        "city": "神栖市",
+        "url": "https://www.city.kamisu.ibaraki.jp/living/safety/1000876/1000878.html"
+    },
+    {
+        "prefecture": "茨城県",
+        "city": "鉾田市",
+        "url": "https://www.city.hokota.lg.jp/page/page000597.html"
+    },
+    {
+        "prefecture": "茨城県",
+        "city": "大洗町",
+        "url": "https://www.town.oarai.lg.jp/izatoiutokini/bousaihazardmap/2453/"
+    },
+    {
+        "prefecture": "茨城県",
+        "city": "東海村",
+        "url": "https://www.vill.tokai.ibaraki.jp/soshikikarasagasu/somminseikatsubu/bosaigenshiryokuanzenka/bousai/1/1402.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "千葉市",
+        "url": "https://www.city.chiba.jp/somu/kikikanri/bosai/2019jisinfusuigaihazardmap.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "銚子市",
+        "url": "https://www.city.choshi.chiba.jp/kurashi/page040050.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "url": "https://www.city.ichikawa.lg.jp/gen06/1511000002.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "url": "https://www.city.funabashi.lg.jp/bousai/map/p009037.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "館山市",
+        "url": "https://www.city.tateyama.chiba.jp/anzen/page022356.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "url": "https://www.city.kisarazu.lg.jp/kurashi/anzen/hinanjo/1007618.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "旭市",
+        "url": "https://www.city.asahi.lg.jp/site/hazard-map/#3tsunami"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "習志野市",
+        "url": "https://www.city.narashino.lg.jp/section/hazardmap/"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "勝浦市",
+        "url": "https://www.city.katsuura.lg.jp/info/1200"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "市原市",
+        "url": "https://www.city.ichihara.chiba.jp/article?articleId=62cf5a34958ba07588af5e58"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "鴨川市",
+        "url": "https://www.city.kamogawa.lg.jp/site/bousai/265.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "君津市",
+        "url": "https://www.city.kimitsu.lg.jp/soshiki/6/1138.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "富津市",
+        "url": "https://www.city.futtsu.lg.jp/0000006977.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "袖ケ浦市",
+        "url": "https://www.city.sodegaura.lg.jp/soshiki/bousai/hazardmap.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "南房総市",
+        "url": "https://www.city.minamiboso.chiba.jp/0000003636.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "匝瑳市",
+        "url": "https://www.city.sosa.lg.jp/page/page000406.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "山武市",
+        "url": "https://www.city.sammu.lg.jp/page/page000786.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "いすみ市",
+        "url": "https://isumi-city.maps.arcgis.com/apps/webappviewer/index.html?id=501eb808968a41458f591ab76318d894"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "大網白里市",
+        "url": "https://www.city.oamishirasato.lg.jp/0000011942.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "九十九里町",
+        "url": "https://www.town.kujukuri.chiba.jp/cmsfiles/contents/0000000/983/kujyukuri_A4.pdf"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "横芝光町",
+        "url": "https://www.town.yokoshibahikari.chiba.jp/soshiki/5/1040.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "一宮町",
+        "url": "http://www.town.ichinomiya.chiba.jp/kinkyu/hinanjo.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "長生村",
+        "url": "http://www.vill.chosei.chiba.jp/0000000359.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "白子町",
+        "url": "http://www.town.shirako.lg.jp/0000002782.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "御宿町",
+        "url": "https://www.town.onjuku.chiba.jp/soumuka/newbousai/index.html"
+    },
+    {
+        "prefecture": "千葉県",
+        "city": "鋸南町",
+        "url": "https://www.town.kyonan.chiba.jp/site/bousai/7525.html"
+    },
+    {
+        "prefecture": "東京都",
+        "city": "港区",
+        "url": "https://www.city.minato.tokyo.jp/bousai/hazard_map/hazard_map.html"
+    },
+    {
+        "prefecture": "東京都",
+        "city": "品川区",
+        "url": "https://www.city.shinagawa.tokyo.jp/PC/bosai/bosai2/panfu/map/hpg000022947.html"
+    },
+    {
+        "prefecture": "東京都",
+        "city": "大田区",
+        "url": "http://www.city.ota.tokyo.jp/seikatsu/chiiki/bousai/jishintaisaku/tsunamitaisaku/tsunamitaisaku_map.html"
+    },
+    {
+        "prefecture": "東京都",
+        "city": "大島町",
+        "url": "https://www.town.oshima.tokyo.jp/soshiki/bousai/bousainotebiki.html"
+    },
+    {
+        "prefecture": "東京都",
+        "city": "新島村",
+        "url": "https://www.niijima.com/bousai/bousai_map.html"
+    },
+    {
+        "prefecture": "東京都",
+        "city": "三宅村",
+        "url": "https://www.vill.miyake.tokyo.jp/bousai/bousai/"
+    },
+    {
+        "prefecture": "東京都",
+        "city": "御蔵島村",
+        "url": "https://www.vill.mikurasima.tokyo.jp/section/jumin/bosai.html"
+    },
+    {
+        "prefecture": "東京都",
+        "city": "八丈町",
+        "url": "https://www.town.hachijo.tokyo.jp/kakuka/soumu/bosai.html"
+    },
+    {
+        "prefecture": "東京都",
+        "city": "小笠原村",
+        "url": "https://www.vill.ogasawara.tokyo.jp/soumu/bousai/"
+    },
+    {
+        "prefecture": "神奈川県",
+        "city": "横浜市",
+        "url": "https://www.city.yokohama.lg.jp/kurashi/bousai-kyukyu-bohan/bousai-saigai/map/tsunami/tsunami.html"
+    },
+    {
+        "prefecture": "神奈川県",
+        "city": "川崎市",
+        "url": "https://www.city.kawasaki.jp/601/page/0000046474.html"
+    },
+    {
+        "prefecture": "神奈川県",
+        "city": "横須賀市",
+        "url": "https://www.city.yokosuka.kanagawa.jp/0525/bousainavi/sonae/hazardmap/tunami-map.html"
+    },
+    {
+        "prefecture": "神奈川県",
+        "city": "平塚市",
+        "url": "https://www.city.hiratsuka.kanagawa.jp/bosai/page-c_01657.html"
+    },
+    {
+        "prefecture": "神奈川県",
+        "city": "鎌倉市",
+        "url": "https://www2.wagmap.jp/kamakura-hazard/Portal"
+    },
+    {
+        "prefecture": "神奈川県",
+        "city": "藤沢市",
+        "url": "http://www.city.fujisawa.kanagawa.jp/bousai/bosai/bosai/hazardmap/tsunami/h25hazardmap.html"
+    },
+    {
+        "prefecture": "神奈川県",
+        "city": "小田原市",
+        "url": "https://www.city.odawara.kanagawa.jp/field/disaster/disaster/allhazardmap.html"
+    },
+    {
+        "prefecture": "神奈川県",
+        "city": "茅ヶ崎市",
+        "url": "https://www.city.chigasaki.kanagawa.jp/bosai/1001267/1001268.html"
+    },
+    {
+        "prefecture": "神奈川県",
+        "city": "逗子市",
+        "url": "https://www.city.zushi.kanagawa.jp/kurashi/bosai/1001502/1001542/1001543.html"
+    },
+    {
+        "prefecture": "神奈川県",
+        "city": "三浦市",
+        "url": "https://www.city.miura.kanagawa.jp/kurashi/anzen_anshin/6/1/1/hazardmap/3947.html"
+    },
+    {
+        "prefecture": "神奈川県",
+        "city": "葉山町",
+        "url": "https://www.town.hayama.lg.jp/kurasu/7749.html"
+    },
+    {
+        "prefecture": "神奈川県",
+        "city": "大磯町",
+        "url": "http://www.town.oiso.kanagawa.jp/soshiki/seisaku/kikikanri/kikikanrika/tanto/info_map/hazardmap/1425025205200.html"
+    },
+    {
+        "prefecture": "神奈川県",
+        "city": "二宮町",
+        "url": "https://www.town.ninomiya.kanagawa.jp/0000001565.html"
+    },
+    {
+        "prefecture": "神奈川県",
+        "city": "真鶴町",
+        "url": "https://www.town.manazuru.kanagawa.jp/kurashsi_tetsuduki/bohanbosai/2101.html"
+    },
+    {
+        "prefecture": "神奈川県",
+        "city": "湯河原町",
+        "url": "https://www.town.yugawara.kanagawa.jp/soshiki/17/1890.html"
+    },
+    {
+        "prefecture": "新潟県",
+        "city": "新潟市",
+        "url": "https://www.city.niigata.lg.jp/kurashi/bosai/hinanjo/kouzui_hinanchizu/tsunamihazard/index.html"
+    },
+    {
+        "prefecture": "新潟県",
+        "city": "長岡市",
+        "url": "https://www.bousai.city.nagaoka.niigata.jp/hazard-map/tsunami.html"
+    },
+    {
+        "prefecture": "新潟県",
+        "city": "柏崎市",
+        "url": "https://www.city.kashiwazaki.lg.jp/bosai_bohan_shobo/bosai/hazardmap_hyokomappu/11389.html"
+    },
+    {
+        "prefecture": "新潟県",
+        "city": "新発田市",
+        "url": "https://gisshibatamap.geogeo.jp/"
+    },
+    {
+        "prefecture": "新潟県",
+        "city": "村上市",
+        "url": "https://www.city.murakami.lg.jp/site/bousai/tsunami.html"
+    },
+    {
+        "prefecture": "新潟県",
+        "city": "糸魚川市",
+        "url": "https://www.city.itoigawa.lg.jp/item/8445.htm#itemid8445"
+    },
+    {
+        "prefecture": "新潟県",
+        "city": "上越市",
+        "url": "https://www.city.joetsu.niigata.jp/soshiki/kikikanri/tsunami-hazard.html"
+    },
+    {
+        "prefecture": "新潟県",
+        "city": "佐渡市",
+        "url": "https://www.city.sado.niigata.jp/site/bousai/"
+    },
+    {
+        "prefecture": "新潟県",
+        "city": "胎内市",
+        "url": "https://www.city.tainai.niigata.jp/kurashi/bosai/bosai/guidebook.html"
+    },
+    {
+        "prefecture": "新潟県",
+        "city": "聖籠町",
+        "url": "https://www.town.seiro.niigata.jp/kankyo/bousai.html"
+    },
+    {
+        "prefecture": "新潟県",
+        "city": "出雲崎町",
+        "url": "https://www.town.izumozaki.niigata.jp/hazardmap/"
+    },
+    {
+        "prefecture": "新潟県",
+        "city": "粟島浦村",
+        "url": "http://www.vill.awashimaura.lg.jp/information/life/"
+    },
+    {
+        "prefecture": "富山県",
+        "city": "富山市",
+        "url": "https://www.city.toyama.lg.jp/bosai/bosai/1010655/1011986/1007932.html"
+    },
+    {
+        "prefecture": "富山県",
+        "city": "高岡市",
+        "url": "https://www.city.takaoka.toyama.jp/somu/bosai/bosai/hazard-map/index.html"
+    },
+    {
+        "prefecture": "富山県",
+        "city": "魚津市",
+        "url": "https://www.city.uozu.toyama.jp/guide/svGuideDtl.aspx?servno=5484"
+    },
+    {
+        "prefecture": "富山県",
+        "city": "氷見市",
+        "url": "https://www.city.himi.toyama.jp/gyosei/soshiki/bosai/1_2/1376.html"
+    },
+    {
+        "prefecture": "富山県",
+        "city": "滑川市",
+        "url": "https://www.city.namerikawa.toyama.jp/kurashi/6/2/1999.html"
+    },
+    {
+        "prefecture": "富山県",
+        "city": "黒部市",
+        "url": "https://www.city.kurobe.toyama.jp/category/page.aspx?servno=4204"
+    },
+    {
+        "prefecture": "富山県",
+        "city": "射水市",
+        "url": "https://www.city.imizu.toyama.jp/guide/svGuideDtl.aspx?servno=5470"
+    },
+    {
+        "prefecture": "富山県",
+        "city": "入善町",
+        "url": "https://www.town.nyuzen.toyama.jp/gyosei/machizukuri/anzen_anshin/3/1/4440.html"
+    },
+    {
+        "prefecture": "富山県",
+        "city": "朝日町",
+        "url": "https://www.town.asahi.toyama.jp/soshiki/somu/bousai/1449208596625.html"
+    },
+    {
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "url": "https://www4.city.kanazawa.lg.jp/kurashi_tetsuzuki/anzen_anshin/bosai/6/15710.html"
+    },
+    {
+        "prefecture": "石川県",
+        "city": "七尾市",
+        "url": "https://www.city.nanao.lg.jp/bosai/kurashi/bosai/hazardmap.html"
+    },
+    {
+        "prefecture": "石川県",
+        "city": "小松市",
+        "url": "https://www.city.komatsu.lg.jp/kurasi_tetuzuki/17/3/5849.html"
+    },
+    {
+        "prefecture": "石川県",
+        "city": "輪島市",
+        "url": "https://www.city.wajima.ishikawa.jp/docs/2015090300037/"
+    },
+    {
+        "prefecture": "石川県",
+        "city": "珠洲市",
+        "url": "https://www.city.suzu.lg.jp/site/bousaisuzu/1634.html"
+    },
+    {
+        "prefecture": "石川県",
+        "city": "加賀市",
+        "url": "https://www.city.kaga.ishikawa.jp/kurashi/bosai/map/2562.html"
+    },
+    {
+        "prefecture": "石川県",
+        "city": "羽咋市",
+        "url": "https://www.city.hakui.lg.jp/sumai_kankyou_anzen/bousai/1/index.html"
+    },
+    {
+        "prefecture": "石川県",
+        "city": "かほく市",
+        "url": "https://www.city.kahoku.lg.jp/001/177/184/d000441.html"
+    },
+    {
+        "prefecture": "石川県",
+        "city": "白山市",
+        "url": "https://www.city.hakusan.lg.jp/seikatsu/bosai/1004660/1001827.html"
+    },
+    {
+        "prefecture": "石川県",
+        "city": "能美市",
+        "url": "https://www.city.nomi.ishikawa.jp/www/contents/1001000000510/index.html"
+    },
+    {
+        "prefecture": "石川県",
+        "city": "内灘町",
+        "url": "https://www.town.uchinada.lg.jp/site/bosai/2710.html"
+    },
+    {
+        "prefecture": "石川県",
+        "city": "志賀町",
+        "url": "https://www.town.shika.lg.jp/jouhou/kaisou_settei/kankyou_anzen_bousai/saigaitaisaku_hinan/saigaitaisaku_hinan.html"
+    },
+    {
+        "prefecture": "石川県",
+        "city": "宝達志水町",
+        "url": "https://www.hodatsushimizu.jp/gyosei/kurashi_tetsuzuki/3/4/2533.html"
+    },
+    {
+        "prefecture": "石川県",
+        "city": "穴水町",
+        "url": "https://www.town.anamizu.lg.jp/kankyouanzen/bousai.html#tunamiHM"
+    },
+    {
+        "prefecture": "石川県",
+        "city": "能登町",
+        "url": "https://www.town.noto.lg.jp/pub/bosai/noto_tsunami_hazard_map.pdf"
+    },
+    {
+        "prefecture": "福井県",
+        "city": "福井市",
+        "url": "https://www.city.fukui.lg.jp/kurasi/bosai/bosai/tsunami_hazardmap.html"
+    },
+    {
+        "prefecture": "福井県",
+        "city": "敦賀市",
+        "url": "https://www.city.tsuruga.lg.jp/relief-safety/bosai_pamphlet/tsuruga-tsunami-map.html"
+    },
+    {
+        "prefecture": "福井県",
+        "city": "小浜市",
+        "url": "http://www1.city.obama.fukui.jp/kurashi/bosai-anzen/bosaitaisaku/1963.html"
+    },
+    {
+        "prefecture": "福井県",
+        "city": "あわら市",
+        "url": "https://www.city.awara.lg.jp/mokuteki/life/life06/life0603/p004329.html"
+    },
+    {
+        "prefecture": "福井県",
+        "city": "坂井市",
+        "url": "https://www.city.fukui-sakai.lg.jp/anzen/bosai-bohan/bosai/map/tunamihinanmappu.html"
+    },
+    {
+        "prefecture": "福井県",
+        "city": "南越前町",
+        "url": "https://www.town.minamiechizen.lg.jp/bousai/201/p003890.html"
+    },
+    {
+        "prefecture": "福井県",
+        "city": "越前町",
+        "url": "https://www.town.echizen.fukui.jp/kurashi/01/06/02/p002655.html"
+    },
+    {
+        "prefecture": "福井県",
+        "city": "美浜町",
+        "url": "https://www.town.fukui-mihama.lg.jp/soshiki/7/426.html"
+    },
+    {
+        "prefecture": "福井県",
+        "city": "高浜町",
+        "url": "http://www.town.takahama.fukui.jp/page/bousai/p001274.html"
+    },
+    {
+        "prefecture": "福井県",
+        "city": "おおい町",
+        "url": "https://www.town.ohi.fukui.jp/bousai/6300/index.html"
+    },
+    {
+        "prefecture": "福井県",
+        "city": "若狭町",
+        "url": "http://www.town.fukui-wakasa.lg.jp/section/hazardmap/tsunamihazard.html"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "静岡市",
+        "url": "https://www.city.shizuoka.lg.jp/000_001546.html"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "浜松市",
+        "url": "https://www.city.hamamatsu.shizuoka.jp/bosai/bosai/map/index.html"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "沼津市",
+        "url": "https://www.city.numazu.shizuoka.jp/kurashi/anshin/bousai/tunamihazard/index.htm"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "熱海市",
+        "url": "https://www.city.atami.lg.jp/kurashi/bousai/1011957/1000585.html"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "伊東市",
+        "url": "https://www.city.ito.shizuoka.jp/gyosei/bosai_anzen/hazardmap/6435.html"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "富士市",
+        "url": "https://www.city.fuji.shizuoka.jp/safety/c0110/fmervo000000n4wn.html"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "磐田市",
+        "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/1001143.html"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "焼津市",
+        "url": "http://www.city.yaizu.lg.jp/yaizuHM/htdocs/index.html"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "掛川市",
+        "url": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/10928.html"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "袋井市",
+        "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/map/1425446993520.html"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "下田市",
+        "url": "https://www.city.shimoda.shizuoka.jp/doc/hazard/"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "湖西市",
+        "url": "https://www.city.kosai.shizuoka.jp/bousai/map/12946.html"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "伊豆市",
+        "url": "https://www.city.izu.shizuoka.jp/kurashinokensaku/bosai/3/2242.html"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "御前崎市",
+        "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/6/bosaimap.html"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "牧之原市",
+        "url": "https://www.city.makinohara.shizuoka.jp/soshiki/4/2137.html"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "東伊豆町",
+        "url": "https://www.town.higashiizu.shizuoka.jp/bg/life/ent/2151.html"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "河津町",
+        "url": "https://www.town.kawazu.shizuoka.jp/bousai/"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "南伊豆町",
+        "url": "https://www.town.minamiizu.shizuoka.jp/docs/2013031200323/"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "松崎町",
+        "url": "https://www.town.matsuzaki.shizuoka.jp/docs/2016011900077/"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "西伊豆町",
+        "url": "http://www.town.nishiizu.shizuoka.jp/kakuka/kikaku/bousai/higaisoutei.html"
+    },
+    {
+        "prefecture": "静岡県",
+        "city": "吉田町",
+        "url": "https://www.town.yoshida.shizuoka.jp/2102.htm"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "名古屋市",
+        "url": "https://www.city.nagoya.jp/kurashi/category/405-5-23-0-0-0-0-0-0-0.html"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "豊橋市",
+        "url": "https://www.city.toyohashi.lg.jp/6926.htm"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "半田市",
+        "url": "https://www.city.handa.lg.jp/kotsu/bosai/bosai/map/map.html"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "豊川市",
+        "url": "https://www.city.toyokawa.lg.jp/kurashi/anzenanshin/bosai/bosaihazardmap/bosaimap.html"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "津島市",
+        "url": "https://www.city.tsushima.lg.jp/kurashi/anshinanzen/bousai/saigaisonae/higaisoutei/index.html"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "碧南市",
+        "url": "https://www.city.hekinan.lg.jp/soshiki/shiminkyoudou/bosai/6/13495.html"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "刈谷市",
+        "url": "https://www.city.kariya.lg.jp/kurashi/anshin/bousai/1002811/1002812.html"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "西尾市",
+        "url": "https://www.city.nishio.aichi.jp/kurashi/bosai/1001370/1004518.html"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "蒲郡市",
+        "url": "https://www.city.gamagori.lg.jp/unit/kikikanri/tsunamihazard.html"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "常滑市",
+        "url": "http://www.city.tokoname.aichi.jp/kurashi/bousai/1000390/1000392.html"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "東海市",
+        "url": "https://www.city.tokai.aichi.jp/iza/bosai/1003126/1003127.html"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "大府市",
+        "url": "https://www.city.obu.aichi.jp/kurashi/bousaibouhan/bousai/1001956/1017456.html"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "知多市",
+        "url": "https://www.city.chita.lg.jp/docs/2016032900063/"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "高浜市",
+        "url": "https://www.city.takahama.lg.jp/soshiki/bousai/2387.html"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "田原市",
+        "url": "https://www.city.tahara.aichi.jp/kurashi/saigai/1000658/1000660/1000662/index.html"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "愛西市",
+        "url": "https://www.city.aisai.lg.jp/contents_detail.php?co=new&frmId=13197"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "弥富市",
+        "url": "https://www.city.yatomi.lg.jp/kurashi/1000511/1000512/1002690/1004986/1004781.html"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "大治町",
+        "url": "https://www.town.oharu.aichi.jp/1568.htm"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "蟹江町",
+        "url": "https://www.town.kanie.aichi.jp/soshiki/5/sinsuihinanhaza-domappu.html"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "飛島村",
+        "url": "https://www.vill.tobishima.aichi.jp/bousai/"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "阿久比町",
+        "url": "https://www.town.agui.lg.jp/contents_detail.php?frmId=256"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "東浦町",
+        "url": "https://www.town.aichi-higashiura.lg.jp/soshiki/bosaikikikanri/kikikanri/gyomu/bosai/higashiurachobousaimappu/11572.html"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "南知多町",
+        "url": "https://www.town.minamichita.lg.jp/kurashi/anzen/1001060/1001959/1001075.html"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "美浜町",
+        "url": "https://www.town.aichi-mihama.lg.jp/docs/2014021300047/"
+    },
+    {
+        "prefecture": "愛知県",
+        "city": "武豊町",
+        "url": "https://www.town.taketoyo.lg.jp/kurashi/1001509/1001594/1001851.html"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "津市",
+        "url": "https://www.info.city.tsu.mie.jp/www/contents/1489624793395/index.html"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "四日市市",
+        "url": "https://bousai2.city.yokkaichi.mie.jp/home/02_hazard_map_hinanjyo/01_hazard_map/06.html"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "伊勢市",
+        "url": "https://www.city.ise.mie.jp/bousai_kyukyu/bousai/map/1001758.html"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "松阪市",
+        "url": "https://www.city.matsusaka.mie.jp/site/bousai/tsunamihazard.html"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "url": "https://www.city.kuwana.lg.jp/bosai/anzen/bousai/23-68261-240-850.html"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "鈴鹿市",
+        "url": "https://www.city.suzuka.lg.jp/safe/index2_3.html"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "尾鷲市",
+        "url": "https://www.city.owase.lg.jp/0000012577.html"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "鳥羽市",
+        "url": "https://www.city.toba.mie.jp/soshiki/kikikanri/gyomu/anzen_anshin/bosai/hazardmap/2825.html"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "熊野市",
+        "url": "https://www.city.kumano.lg.jp/prevention/?content=618"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "志摩市",
+        "url": "https://www.city.shima.mie.jp/kurashi_tetsuzuki/bosaishobobohankotsuanzen/bosai/map/1458721497559.html"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "木曽岬町",
+        "url": "https://www.town.kisosaki.lg.jp/0000000892.html"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "朝日町",
+        "url": "https://www2.town.asahi.mie.jp/www/contents/1001000000473/index.html"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "川越町",
+        "url": "https://www.town.kawagoe.mie.jp/index.php/bousai/bousai/hazardmap/"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "明和町",
+        "url": "https://www.town.meiwa.mie.jp/kurashi/anzen_anshin/bosai/map/1489.html"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "大紀町",
+        "url": "http://www.town.taiki.mie.jp/life/moshimo/bousaimap"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "南伊勢町",
+        "url": "https://www.town.minamiise.lg.jp/admin/kurashi/bousai/858.html"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "紀北町",
+        "url": "https://www.town.mie-kihoku.lg.jp/kurashi/bosai/4/2/1103.html"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "御浜町",
+        "url": "https://www.town.mihama.mie.jp/soshikikarasagasu/somuka/kurashinojoho/3/177.html"
+    },
+    {
+        "prefecture": "三重県",
+        "city": "紀宝町",
+        "url": "https://www.town.kiho.lg.jp/safety/disaster-prevention-map/"
+    },
+    {
+        "prefecture": "京都府",
+        "city": "舞鶴市",
+        "url": "https://www.city.maizuru.kyoto.jp/kurashi/0000005720.html"
+    },
+    {
+        "prefecture": "京都府",
+        "city": "宮津市",
+        "url": "https://www.city.miyazu.kyoto.jp/site/bousaigensai/6210.html"
+    },
+    {
+        "prefecture": "京都府",
+        "city": "京丹後市",
+        "url": "https://www.city.kyotango.lg.jp/top/soshiki/somu/somu/6/1/hazardmap/7289.html"
+    },
+    {
+        "prefecture": "京都府",
+        "city": "伊根町",
+        "url": "https://www.town.ine.kyoto.jp/kurashi/anzen/4/953.html"
+    },
+    {
+        "prefecture": "京都府",
+        "city": "与謝野町",
+        "url": "https://www.town.yosano.lg.jp/life/relief/disaster-prevention-map/298653/"
+    },
+    {
+        "prefecture": "大阪府",
+        "city": "大阪市",
+        "url": "https://www.city.osaka.lg.jp/kikikanrishitsu/page/0000299877.html"
+    },
+    {
+        "prefecture": "大阪府",
+        "city": "堺市",
+        "url": "https://www.city.sakai.lg.jp/kurashi/bosai/kojo/tsunami/df_filename_.html"
+    },
+    {
+        "prefecture": "大阪府",
+        "city": "岸和田市",
+        "url": "https://www.city.kishiwada.osaka.jp/site/bousai/tsunami-hazardmap.html"
+    },
+    {
+        "prefecture": "大阪府",
+        "city": "豊中市",
+        "url": "https://www.city.toyonaka.osaka.jp/kurashi/bosai/bousai_info/hazardmap/sinsuiHM.html"
+    },
+    {
+        "prefecture": "大阪府",
+        "city": "泉大津市",
+        "url": "https://www.city.izumiotsu.lg.jp/kakuka/kikikanri/kikikanri/map/hazardmap.html"
+    },
+    {
+        "prefecture": "大阪府",
+        "city": "貝塚市",
+        "url": "https://www.city.kaizuka.lg.jp/kakuka/kikikanri/kikikanri/menu/bosai/keihatsu/bousaigaidobukku.html"
+    },
+    {
+        "prefecture": "大阪府",
+        "city": "泉佐野市",
+        "url": "https://www.city.izumisano.lg.jp/kakuka/kyoudou/kikikanri/menu/bou/higaisukunaku/gaido.html"
+    },
+    {
+        "prefecture": "大阪府",
+        "city": "和泉市",
+        "url": "https://www.city.osaka-izumi.lg.jp/kurasitetu/kinkyubousai/bousainfo/jijyo/jisintaisaku/1397613804556.html"
+    },
+    {
+        "prefecture": "大阪府",
+        "city": "高石市",
+        "url": "https://www.city.takaishi.lg.jp/kakuka/soumu/kikikanri_ka/map/bousaimap.html"
+    },
+    {
+        "prefecture": "大阪府",
+        "city": "泉南市",
+        "url": "https://www.city.sennan.lg.jp/kurashi/bosai/bosai/1496629186485.html"
+    },
+    {
+        "prefecture": "大阪府",
+        "city": "阪南市",
+        "url": "https://www.city.hannan.lg.jp/kakuka/somu/kiki/bousai_jouhou/bousaimap/1306995329337.html"
+    },
+    {
+        "prefecture": "大阪府",
+        "city": "忠岡町",
+        "url": "https://www.town.tadaoka.osaka.jp/kurashi/bousai_kikikanri/hazardmap/2017.html"
+    },
+    {
+        "prefecture": "大阪府",
+        "city": "田尻町",
+        "url": "https://www.town.tajiri.osaka.jp/bohan_bosai/bousaikiki/hazardmap/index.html"
+    },
+    {
+        "prefecture": "大阪府",
+        "city": "岬町",
+        "url": "https://www.town.misaki.osaka.jp/soshiki/matidukuri/kikikanri/bosai/424.html"
+    },
+    {
+        "prefecture": "兵庫県",
+        "city": "神戸市",
+        "url": "https://www.city.kobe.lg.jp/a46152/bosai/prevention/preparation/guide/index.html"
+    },
+    {
+        "prefecture": "兵庫県",
+        "city": "姫路市",
+        "url": "https://www.sonicweb-asp.jp/himeji/map?theme=th_43#"
+    },
+    {
+        "prefecture": "兵庫県",
+        "city": "尼崎市",
+        "url": "https://www.city.amagasaki.hyogo.jp/kurashi/bosai_syobo/hazardmap/021_kouzui_hazardmap.html"
+    },
+    {
+        "prefecture": "兵庫県",
+        "city": "明石市",
+        "url": "https://www.city.akashi.lg.jp/anzen/anshin/bosai/hazardmap/hazardmap202203.html"
+    },
+    {
+        "prefecture": "兵庫県",
+        "city": "西宮市",
+        "url": "https://www.nishi.or.jp/kurashi/anshin/bosaijoho/kakushumap/tsunami-map/2019tsunamihazard.html"
+    },
+    {
+        "prefecture": "兵庫県",
+        "city": "洲本市",
+        "url": "https://www.city.sumoto.lg.jp/safety/hazardMap/flow_01.html"
+    },
+    {
+        "prefecture": "兵庫県",
+        "city": "芦屋市",
+        "url": "https://www.city.ashiya.lg.jp/bousai/map.html"
+    },
+    {
+        "prefecture": "兵庫県",
+        "city": "相生市",
+        "url": "https://www.city.aioi.lg.jp/soshiki/kikikanri/hazard2-map.html"
+    },
+    {
+        "prefecture": "兵庫県",
+        "city": "豊岡市",
+        "url": "https://www.city.toyooka.lg.jp/bosai/1019913/bosaimap/1005646.html"
+    },
+    {
+        "prefecture": "兵庫県",
+        "city": "加古川市",
+        "url": "https://www.city.kakogawa.lg.jp/soshikikarasagasu/bousai/kikikanrisitsu/bosai/saigaienosonae/31885.html"
+    },
+    {
+        "prefecture": "兵庫県",
+        "city": "赤穂市",
+        "url": "http://www.city.ako.lg.jp/koushitsu/kikikanri/hazardmap/index.html"
+    },
+    {
+        "prefecture": "兵庫県",
+        "city": "高砂市",
+        "url": "https://www.city.takasago.lg.jp/gyoseisite/kurashi_tetsuzuki/anzen_anshin/6/1/3902.html"
+    },
+    {
+        "prefecture": "兵庫県",
+        "city": "南あわじ市",
+        "url": "https://www.city.minamiawaji.hyogo.jp/site/bousai/hazardmap.html"
+    },
+    {
+        "prefecture": "兵庫県",
+        "city": "淡路市",
+        "url": "https://www.city.awaji.lg.jp/site/bosai/21523.html"
+    },
+    {
+        "prefecture": "兵庫県",
+        "city": "たつの市",
+        "url": "https://www.city.tatsuno.lg.jp/kikikanri/bousaimap.html"
+    },
+    {
+        "prefecture": "兵庫県",
+        "city": "播磨町",
+        "url": "https://www.town.harima.lg.jp/kikikanri/bosai/bosai/sougoubousaimap.html"
+    },
+    {
+        "prefecture": "兵庫県",
+        "city": "新温泉町",
+        "url": "https://www.town.shinonsen.hyogo.jp/page/index.php?mode=detail&page_id=20cd63d6cb671dbb74c47385ed7bba22"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "和歌山市",
+        "url": "http://www.city.wakayama.wakayama.jp/kurashi/bousai_bouhan_koutsu/1000032/1036426/1036439/index.html"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "海南市",
+        "url": "https://www.city.kainan.lg.jp/kinkyubosai/hazadmap/index.html"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "有田市",
+        "url": "https://www.city.arida.lg.jp/kurashi/bosai/keikakumap/1000686.html"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "御坊市",
+        "url": "http://www.city.gobo.wakayama.jp/kurasi/bosai/hazardmap/1411108838375.html"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "田辺市",
+        "url": "https://www.city.tanabe.lg.jp/bousai/tumami-hazard-map.html"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "新宮市",
+        "url": "https://shingu.nigedoki-map.com/"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "湯浅町",
+        "url": "https://www.town.yuasa.wakayama.jp/soshiki/2/3218.html"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "広川町",
+        "url": "https://www.town.hirogawa.wakayama.jp/h_map/tsunami/"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "美浜町",
+        "url": "http://www.town.mihama.wakayama.jp/docs/2014030700029/"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "日高町",
+        "url": "http://www.town.wakayama-hidaka.lg.jp/docs/2014082000016/"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "由良町",
+        "url": "http://www.town.yura.wakayama.jp/docs/2014011700567/"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "印南町",
+        "url": "https://www.town.wakayama-inami.lg.jp/0000000632.html"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "みなべ町",
+        "url": "http://www.town.minabe.lg.jp/docs/2014041100016/"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "白浜町",
+        "url": "http://www.town.shirahama.wakayama.jp/soshiki/bosai/gyomu/sonaete/1450338319282.html"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "すさみ町",
+        "url": "http://www.town.susami.lg.jp/docs/2015090200108/"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "那智勝浦町",
+        "url": "https://www.town.nachikatsuura.wakayama.jp/info/1383"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "太地町",
+        "url": "https://www.town.taiji.wakayama.jp/bousai/hazardmap.html"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "古座川町",
+        "url": "http://www.town.kozagawa.wakayama.jp/yakunitatu/sub005.html"
+    },
+    {
+        "prefecture": "和歌山県",
+        "city": "串本町",
+        "url": "https://www.town.kushimoto.wakayama.jp/bousai/tsunami/"
+    },
+    {
+        "prefecture": "鳥取県",
+        "city": "鳥取市",
+        "url": "https://gis.city.tottori.lg.jp/webgis/?p=1"
+    },
+    {
+        "prefecture": "鳥取県",
+        "city": "米子市",
+        "url": "https://www.city.yonago.lg.jp/6585.htm"
+    },
+    {
+        "prefecture": "鳥取県",
+        "city": "境港市",
+        "url": "https://www.city.sakaiminato.lg.jp/index.php?view=111062"
+    },
+    {
+        "prefecture": "鳥取県",
+        "city": "岩美町",
+        "url": "https://www.iwami.gr.jp/dd.aspx?menuid=2600"
+    },
+    {
+        "prefecture": "鳥取県",
+        "city": "湯梨浜町",
+        "url": "https://www.yurihama.jp/soshiki/2/15995.html"
+    },
+    {
+        "prefecture": "鳥取県",
+        "city": "琴浦町",
+        "url": "https://www.town.kotoura.tottori.jp/docs/2021021200062/"
+    },
+    {
+        "prefecture": "鳥取県",
+        "city": "北栄町",
+        "url": "https://www.e-hokuei.net/1622.htm"
+    },
+    {
+        "prefecture": "鳥取県",
+        "city": "日吉津村",
+        "url": "http://www.hiezu.jp/list/soumu/y121/u509/q105/"
+    },
+    {
+        "prefecture": "鳥取県",
+        "city": "大山町",
+        "url": "https://www.daisen.jp/1/10/1/119/"
+    },
+    {
+        "prefecture": "島根県",
+        "city": "松江市",
+        "url": "https://www.city.matsue.lg.jp/kurashi_tetsuzuki/anzen_anshin/9/index.html"
+    },
+    {
+        "prefecture": "島根県",
+        "city": "浜田市",
+        "url": "https://www.city.hamada.shimane.jp/www/contents/1553235254892/index.html"
+    },
+    {
+        "prefecture": "島根県",
+        "city": "出雲市",
+        "url": "https://www.city.izumo.shimane.jp/www/contents/1366858934184/index.html"
+    },
+    {
+        "prefecture": "島根県",
+        "city": "益田市",
+        "url": "https://www.city.masuda.lg.jp/kurashi_tetsuzuki/bosai/saigainisonaeru/4/3389.html"
+    },
+    {
+        "prefecture": "島根県",
+        "city": "大田市",
+        "url": "https://www.city.oda.lg.jp/disaster_prevention/1268/12858"
+    },
+    {
+        "prefecture": "島根県",
+        "city": "江津市",
+        "url": "https://www.city.gotsu.lg.jp/soshiki/4/2664.html"
+    },
+    {
+        "prefecture": "島根県",
+        "city": "海士町",
+        "url": "http://www.town.ama.shimane.jp/kurashi/guide/10200/10202/bousai.html"
+    },
+    {
+        "prefecture": "島根県",
+        "city": "西ノ島町",
+        "url": "http://www.town.nishinoshima.shimane.jp/bunya/b_anshin-joho/b_bosai/822"
+    },
+    {
+        "prefecture": "島根県",
+        "city": "知夫村",
+        "url": "http://www.vill.chibu.lg.jp/gyosei/life/needs/needs07/27"
+    },
+    {
+        "prefecture": "島根県",
+        "city": "隠岐の島町",
+        "url": "https://www.town.okinoshima.shimane.jp/www/contents/1462152836022/index.html"
+    },
+    {
+        "prefecture": "岡山県",
+        "city": "岡山市",
+        "url": "https://www.city.okayama.jp/0000012072.html"
+    },
+    {
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "url": "https://www.city.kurashiki.okayama.jp/1870.htm"
+    },
+    {
+        "prefecture": "岡山県",
+        "city": "玉野市",
+        "url": "https://www.city.tamano.lg.jp/site/bousai/1499.html"
+    },
+    {
+        "prefecture": "岡山県",
+        "city": "笠岡市",
+        "url": "https://www.city.kasaoka.okayama.jp/soshiki/10/33421.html"
+    },
+    {
+        "prefecture": "岡山県",
+        "city": "備前市",
+        "url": "https://www.city.bizen.okayama.jp/soshiki/4/4320.html"
+    },
+    {
+        "prefecture": "岡山県",
+        "city": "瀬戸内市",
+        "url": "https://www.city.setouchi.lg.jp/soshiki/3/3870.html"
+    },
+    {
+        "prefecture": "岡山県",
+        "city": "浅口市",
+        "url": "https://www.city.asakuchi.lg.jp/kurashi/bosai/map/"
+    },
+    {
+        "prefecture": "岡山県",
+        "city": "里庄町",
+        "url": "http://www.town.satosho.okayama.jp/uploaded/attachment/4713.pdf"
+    },
+    {
+        "prefecture": "広島県",
+        "city": "広島市",
+        "url": "https://www.city.hiroshima.lg.jp/site/saigaiinfo/214297.html"
+    },
+    {
+        "prefecture": "広島県",
+        "city": "呉市",
+        "url": "https://www.city.kure.lg.jp/soshiki/82/tsunamihazard.html"
+    },
+    {
+        "prefecture": "広島県",
+        "city": "竹原市",
+        "url": "https://www.city.takehara.lg.jp/kurashi_tetsuzuki/bosai/1/3893.html"
+    },
+    {
+        "prefecture": "広島県",
+        "city": "三原市",
+        "url": "https://www.city.mihara.hiroshima.jp/soshiki/19/tunamihazad.html"
+    },
+    {
+        "prefecture": "広島県",
+        "city": "尾道市",
+        "url": "https://www.city.onomichi.hiroshima.jp/site/bosai/3238.html"
+    },
+    {
+        "prefecture": "広島県",
+        "city": "福山市",
+        "url": "https://www.city.fukuyama.hiroshima.jp/site/bosai/10792.html"
+    },
+    {
+        "prefecture": "広島県",
+        "city": "大竹市",
+        "url": "https://www.city.otake.hiroshima.jp/soshiki/somu/kikikanri/gyoumukiki/5/hinansyo_bousaimap/1577319031549.html"
+    },
+    {
+        "prefecture": "広島県",
+        "city": "東広島市",
+        "url": "https://www.city.higashihiroshima.lg.jp/bosai/10/3541.html"
+    },
+    {
+        "prefecture": "広島県",
+        "city": "廿日市市",
+        "url": "https://www.city.hatsukaichi.hiroshima.jp/soshiki/3/10185.html"
+    },
+    {
+        "prefecture": "広島県",
+        "city": "江田島市",
+        "url": "https://www.city.etajima.hiroshima.jp/cms/hazardmap/flow_04.html"
+    },
+    {
+        "prefecture": "広島県",
+        "city": "府中町",
+        "url": "https://www.town.fuchu.hiroshima.jp/site/kikikannrika/19259.html"
+    },
+    {
+        "prefecture": "広島県",
+        "city": "海田町",
+        "url": "https://www.town.kaita.lg.jp/soshiki/8/118615.html"
+    },
+    {
+        "prefecture": "広島県",
+        "city": "坂町",
+        "url": "https://www.town.saka.lg.jp/2015/08/07/tunamitakasiomap/"
+    },
+    {
+        "prefecture": "広島県",
+        "city": "大崎上島町",
+        "url": "https://www.town.osakikamijima.hiroshima.jp/soshiki/somu/1/2/4/877.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "下関市",
+        "url": "https://www.city.shimonoseki.lg.jp/site/bosai/4215.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "宇部市",
+        "url": "https://www.city.ube.yamaguchi.jp/kurashi/bousai/bousai/1001256/1001282.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "山口市",
+        "url": "https://www.city.yamaguchi.lg.jp/soshiki/4/83392.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "萩市",
+        "url": "https://www.city.hagi.lg.jp/soshiki/7/h21628.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "防府市",
+        "url": "https://www.city.hofu.yamaguchi.jp/soshiki/2/hazardmap.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "下松市",
+        "url": "https://www.city.kudamatsu.lg.jp/soumu/soumu/soumu/tsunamimap.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "岩国市",
+        "url": "https://www.city.iwakuni.lg.jp/soshiki/9/1701.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "光市",
+        "url": "https://www.city.hikari.lg.jp/kurashi_tetsuzuki/bosai_shobo/index.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "長門市",
+        "url": "https://www.city.nagato.yamaguchi.jp/soshiki/4/13793.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "柳井市",
+        "url": "https://www.city-yanai.jp/site/bousai/tsunamihazardmap.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "周南市",
+        "url": "https://www.city.shunan.lg.jp/soshiki/9/4178.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "山陽小野田市",
+        "url": "https://www.city.sanyo-onoda.lg.jp/site/bosai/tsunami-hazardmap.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "周防大島町",
+        "url": "https://www.town.suo-oshima.lg.jp/soumu/tsunami_hazard_1.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "和木町",
+        "url": "https://www.town.waki.lg.jp/site/bousai/413.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "上関町",
+        "url": "https://www.town.kaminoseki.lg.jp/%E9%98%B2%E7%81%BD%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "田布施町",
+        "url": "https://www.town.tabuse.lg.jp/www/contents/1430978304929/index.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "平生町",
+        "url": "http://www.town.hirao.lg.jp/kurashi/bousai/map/1462494047085.html"
+    },
+    {
+        "prefecture": "山口県",
+        "city": "阿武町",
+        "url": "http://www.town.abu.lg.jp/guide/?id=bousai"
+    },
+    {
+        "prefecture": "徳島県",
+        "city": "徳島市",
+        "url": "http://www.city.tokushima.tokushima.jp/anzen/shoubo_bousai/disaster_prevention/bousai_map/jishin.html"
+    },
+    {
+        "prefecture": "徳島県",
+        "city": "鳴門市",
+        "url": "https://www.city.naruto.tokushima.jp/kurashi/bosai/saigai/saigai/hzmap/tsunami.html"
+    },
+    {
+        "prefecture": "徳島県",
+        "city": "小松島市",
+        "url": "https://www.city.komatsushima.lg.jp/docs/hazardmapweb.html"
+    },
+    {
+        "prefecture": "徳島県",
+        "city": "阿南市",
+        "url": "https://www.city.anan.tokushima.jp/docs/2017121100098/"
+    },
+    {
+        "prefecture": "徳島県",
+        "city": "牟岐町",
+        "url": "https://www.town.tokushima-mugi.lg.jp/docs/2012031400016/"
+    },
+    {
+        "prefecture": "徳島県",
+        "city": "美波町",
+        "url": "https://www.town.minami.lg.jp/minami-map/"
+    },
+    {
+        "prefecture": "徳島県",
+        "city": "海陽町",
+        "url": "https://www.town.kaiyo.lg.jp/docs/2020052000030/"
+    },
+    {
+        "prefecture": "徳島県",
+        "city": "松茂町",
+        "url": "https://www.town.matsushige.tokushima.jp/docs/2018041700030/"
+    },
+    {
+        "prefecture": "徳島県",
+        "city": "北島町",
+        "url": "https://www.town.kitajima.lg.jp/docs/2727204.html"
+    },
+    {
+        "prefecture": "徳島県",
+        "city": "藍住町",
+        "url": "https://www.town.aizumi.lg.jp/docs/2022042300021/"
+    },
+    {
+        "prefecture": "香川県",
+        "city": "高松市",
+        "url": "https://www.city.takamatsu.kagawa.jp/smph/kurashi/kurashi/shobo/bosai_map/takamatsu_map/index.html"
+    },
+    {
+        "prefecture": "香川県",
+        "city": "丸亀市",
+        "url": "https://www.city.marugame.lg.jp/site/bousaiinfo/list153.html"
+    },
+    {
+        "prefecture": "香川県",
+        "city": "坂出市",
+        "url": "https://www.city.sakaide.lg.jp/site/bousai/tunamimap.html"
+    },
+    {
+        "prefecture": "香川県",
+        "city": "観音寺市",
+        "url": "https://www.city.kanonji.kagawa.jp/soshiki/4/41750.html"
+    },
+    {
+        "prefecture": "香川県",
+        "city": "さぬき市",
+        "url": "https://www.city.sanuki.kagawa.jp/life/safety/%EF%BD%94_hazard"
+    },
+    {
+        "prefecture": "香川県",
+        "city": "東かがわ市",
+        "url": "https://www.higashikagawa.jp/kurashinojoho/anzen_anshin/bosai/1/1928.html"
+    },
+    {
+        "prefecture": "香川県",
+        "city": "三豊市",
+        "url": "https://www.city.mitoyo.lg.jp/kakuka/soumu/kiki/3/bousai2020/index.html"
+    },
+    {
+        "prefecture": "香川県",
+        "city": "土庄町",
+        "url": "https://www.town.tonosho.kagawa.jp/gyosei/soshiki/somu/bousaisyoubou/bousai/2213.html"
+    },
+    {
+        "prefecture": "香川県",
+        "city": "小豆島町",
+        "url": "http://www.earth-planning-kagawa.com/tiriintizu4/entrance/tunamientrance.html"
+    },
+    {
+        "prefecture": "香川県",
+        "city": "直島町",
+        "url": "http://www.town.naoshima.lg.jp/kurashi/kyukyu/cl1000007/i41.html"
+    },
+    {
+        "prefecture": "香川県",
+        "city": "宇多津町",
+        "url": "https://www.town.utazu.lg.jp/kurashi/bousaibouhan/bosai/hazadomap/"
+    },
+    {
+        "prefecture": "香川県",
+        "city": "多度津町",
+        "url": "https://www.town.tadotsu.kagawa.jp/moshimonotokiha/hazardmap/1890.html"
+    },
+    {
+        "prefecture": "愛媛県",
+        "city": "松山市",
+        "url": "https://www.city.matsuyama.ehime.jp/kurashi/bosai/bousai/keihatu/bousaimap.html"
+    },
+    {
+        "prefecture": "愛媛県",
+        "city": "今治市",
+        "url": "https://www.city.imabari.ehime.jp/bousai/bousaimap.html"
+    },
+    {
+        "prefecture": "愛媛県",
+        "city": "宇和島市",
+        "url": "https://www.city.uwajima.ehime.jp/soshiki/5/bousai-map.html"
+    },
+    {
+        "prefecture": "愛媛県",
+        "city": "八幡浜市",
+        "url": "https://www.city.yawatahama.ehime.jp/doc/2020072800016/"
+    },
+    {
+        "prefecture": "愛媛県",
+        "city": "新居浜市",
+        "url": "https://www.city.niihama.lg.jp/site/bousai/boumap.html"
+    },
+    {
+        "prefecture": "愛媛県",
+        "city": "西条市",
+        "url": "https://www.city.saijo.ehime.jp/soshiki/kikikanri/bousaimap.html"
+    },
+    {
+        "prefecture": "愛媛県",
+        "city": "大洲市",
+        "url": "https://www.city.ozu.ehime.jp/soshiki/kikikanri/33089.html"
+    },
+    {
+        "prefecture": "愛媛県",
+        "city": "伊予市",
+        "url": "https://www.city.iyo.lg.jp/bousai/kurashi/map/index.html"
+    },
+    {
+        "prefecture": "愛媛県",
+        "city": "四国中央市",
+        "url": "https://www.city.shikokuchuo.ehime.jp/soshiki/6/4083.html"
+    },
+    {
+        "prefecture": "愛媛県",
+        "city": "西予市",
+        "url": "https://www.city.seiyo.ehime.jp/kurashi/bousai/bousaimappu/map/3764.html"
+    },
+    {
+        "prefecture": "愛媛県",
+        "city": "上島町",
+        "url": "https://www.town.kamijima.lg.jp/soshiki/15/4082.html"
+    },
+    {
+        "prefecture": "愛媛県",
+        "city": "松前町",
+        "url": "https://www.town.masaki.ehime.jp/site/bousai/list111-217.html"
+    },
+    {
+        "prefecture": "愛媛県",
+        "city": "伊方町",
+        "url": "https://www.town.ikata.ehime.jp/soshiki/1/4229.html"
+    },
+    {
+        "prefecture": "愛媛県",
+        "city": "愛南町",
+        "url": "https://www.town.ainan.ehime.jp/kurashi/tetsuduki/anshin/bosai/sougoubousaimap.html"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "高知市",
+        "url": "https://www.city.kochi.kochi.jp/site/bousai/jisintsunami-hazardmap.html"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "室戸市",
+        "url": "https://www.city.muroto.kochi.jp/bousaimap/"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "安芸市",
+        "url": "https://www.city.aki.kochi.jp/life/dtl.php?hdnKey=1251"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "南国市",
+        "url": "https://www.city.nankoku.lg.jp/life/life_dtl.php?hdnKey=2170"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "土佐市",
+        "url": "https://www.city.tosa.lg.jp/bousai/map_index.php"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "須崎市",
+        "url": "https://www.city.susaki.lg.jp/life/detail.php?hdnKey=4269"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "宿毛市",
+        "url": "https://www.city.sukumo.kochi.jp/docs-30/p01090312.html"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "土佐清水市",
+        "url": "https://www.city.tosashimizu.kochi.jp/kurashi/section/kikikanri/007.html"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "四万十市",
+        "url": "https://www.city.shimanto.lg.jp/soshiki/2/1053.html"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "香南市",
+        "url": "https://www.city.kochi-konan.lg.jp/soshikikarasagasu/bosaitaisakuka/bousai_anzen/2/1/2563.html"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "東洋町",
+        "url": "http://www.town.toyo.kochi.jp/contents/info0006.html"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "奈半利町",
+        "url": "https://www.town.nahari.kochi.jp/life/dtl.php?hdnKey=1129"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "田野町",
+        "url": "https://tanocho.jp/bosai"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "安田町",
+        "url": "https://www.town.yasuda.kochi.jp/life/dtl.php?hdnKey=1014"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "芸西村",
+        "url": "http://www.vill.geisei.kochi.jp/pages/m000407.php"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "中土佐町",
+        "url": "https://www.town.nakatosa.lg.jp/life/detail.php?hdnKey=114"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "四万十町",
+        "url": "https://www.town.shimanto.lg.jp/life/detail.php?hdnKey=1630&hdnSKBN=A"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "大月町",
+        "url": "https://www.town.otsuki.kochi.jp/life/dtl.php?hdnKey=1008"
+    },
+    {
+        "prefecture": "高知県",
+        "city": "黒潮町",
+        "url": "https://www.town.kuroshio.lg.jp/pb/cont/jouhoubousai-nankai/45"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "北九州市",
+        "url": "https://www.city.kitakyushu.lg.jp/kiki-kanri/13801134.html"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "福岡市",
+        "url": "https://www.city.fukuoka.lg.jp/shimin/b_suishin/bousai/tsunamihazardmap.html"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "大牟田市",
+        "url": "https://www.city.omuta.lg.jp/kiji0037904/index.html"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "柳川市",
+        "url": "https://www.city.yanagawa.fukuoka.jp/bosai/bosai/tunami_map.html"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "大川市",
+        "url": "https://www.city.okawa.lg.jp/s013/020/030/070/20150205235257.html"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "行橋市",
+        "url": "https://www.city.yukuhashi.fukuoka.jp/site/bosai/2098.html"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "豊前市",
+        "url": "https://www.city.buzen.lg.jp/bousai/hazardmap/index.html"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "宗像市",
+        "url": "https://www.city.munakata.lg.jp/bosai/li/040/index.html"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "古賀市",
+        "url": "https://www.city.koga.fukuoka.jp/cityhall/work/somu/saigai/014.php"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "福津市",
+        "url": "https://www.city.fukutsu.lg.jp/kurashi/anshin/fukutsu_bosai/index.html"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "みやま市",
+        "url": "https://www.city.miyama.lg.jp/s004/anzen/030/110/020/20200109103000.html"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "糸島市",
+        "url": "https://www.city.itoshima.lg.jp/s004/010/010/010/010/010/haza-do.html"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "新宮町",
+        "url": "https://www.town.shingu.fukuoka.jp/soshiki/chiiki_kyodo/1/3/1/872.html"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "芦屋町",
+        "url": "https://www.town.ashiya.lg.jp/site/bousai/2509.html"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "水巻町",
+        "url": "https://www.town.mizumaki.lg.jp/s026/kurashi/100/020/010/20200109144000.html"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "岡垣町",
+        "url": "https://www.town.okagaki.lg.jp/s019/010/011/020/030/201502050092.html"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "遠賀町",
+        "url": "https://www.town.onga.lg.jp/soshiki/4/12426.html"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "苅田町",
+        "url": "https://www.town.kanda.lg.jp/_1021/_1055/_4869.html"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "吉富町",
+        "url": "https://www.town.yoshitomi.lg.jp/gyosei/n162/r393/"
+    },
+    {
+        "prefecture": "福岡県",
+        "city": "築上町",
+        "url": "https://www.town.chikujo.fukuoka.jp/li/010/030/060/index.html"
+    },
+    {
+        "prefecture": "佐賀県",
+        "city": "佐賀市",
+        "url": "https://www.city.saga.lg.jp/main/382.html"
+    },
+    {
+        "prefecture": "佐賀県",
+        "city": "唐津市",
+        "url": "https://www.city.karatsu.lg.jp/bosai/bosai/hazard-map/index.html"
+    },
+    {
+        "prefecture": "佐賀県",
+        "city": "伊万里市",
+        "url": "https://www.city.imari.saga.jp/2916.htm"
+    },
+    {
+        "prefecture": "佐賀県",
+        "city": "鹿島市",
+        "url": "https://www.city.saga-kashima.lg.jp/main/23641.html"
+    },
+    {
+        "prefecture": "佐賀県",
+        "city": "小城市",
+        "url": "https://www.city.ogi.lg.jp/main/33353.html"
+    },
+    {
+        "prefecture": "佐賀県",
+        "city": "玄海町",
+        "url": "https://www.town.genkai.lg.jp/site/bousai-portal/62678.html"
+    },
+    {
+        "prefecture": "佐賀県",
+        "city": "白石町",
+        "url": "https://www.town.shiroishi.lg.jp/jyuumin/bousai/_2905.html"
+    },
+    {
+        "prefecture": "佐賀県",
+        "city": "太良町",
+        "url": "https://www.town.tara.lg.jp/hazardMap/index.html"
+    },
+    {
+        "prefecture": "長崎県",
+        "city": "対馬市",
+        "url": "https://www.city.tsushima.nagasaki.jp/gyousei/mokuteki/12/4188.html"
+    },
+    {
+        "prefecture": "長崎県",
+        "city": "壱岐市",
+        "url": "https://www.city.iki.nagasaki.jp/soshiki/kiki_kanrika/bosai/9700.html"
+    },
+    {
+        "prefecture": "長崎県",
+        "city": "五島市",
+        "url": "https://www.city.goto.nagasaki.jp/li/kurashi/150/030/010/index.html"
+    },
+    {
+        "prefecture": "長崎県",
+        "city": "西海市",
+        "url": "https://www.city.saikai.nagasaki.jp/moshimo/bousai/8781.html"
+    },
+    {
+        "prefecture": "長崎県",
+        "city": "雲仙市",
+        "url": "https://www.city.unzen.nagasaki.jp/bousai/kiji003978/index.html"
+    },
+    {
+        "prefecture": "長崎県",
+        "city": "長与町",
+        "url": "https://webtown.nagayo.jp/bousai/kiji003377/index.html"
+    },
+    {
+        "prefecture": "長崎県",
+        "city": "佐々町",
+        "url": "https://www.sazacho-nagasaki.jp/bousai/kiji0032544/index.html"
+    },
+    {
+        "prefecture": "熊本県",
+        "city": "熊本市",
+        "url": "https://www.city.kumamoto.jp/hpkiji/pub/detail.aspx?c_id=5&type=top&id=27014"
+    },
+    {
+        "prefecture": "熊本県",
+        "city": "八代市",
+        "url": "https://www.city.yatsushiro.lg.jp/bousai/kiji0035205/index.html"
+    },
+    {
+        "prefecture": "熊本県",
+        "city": "荒尾市",
+        "url": "https://www.city.arao.lg.jp/bosai-bohan/bosai/hazard-map/page3044.html"
+    },
+    {
+        "prefecture": "熊本県",
+        "city": "玉名市",
+        "url": "https://www.city.tamana.lg.jp/q/aview/102/16409.html"
+    },
+    {
+        "prefecture": "熊本県",
+        "city": "宇土市",
+        "url": "https://www.city.uto.lg.jp/article/view/1017/5569.html"
+    },
+    {
+        "prefecture": "熊本県",
+        "city": "上天草市",
+        "url": "https://www.city.kamiamakusa.kumamoto.jp/q/aview/290/6882/.html"
+    },
+    {
+        "prefecture": "熊本県",
+        "city": "宇城市",
+        "url": "https://www.city.uki.kumamoto.jp/2026596"
+    },
+    {
+        "prefecture": "熊本県",
+        "city": "天草市",
+        "url": "https://www.city.amakusa.kumamoto.jp/bousai/kiji0038924/index.html"
+    },
+    {
+        "prefecture": "熊本県",
+        "city": "長洲町",
+        "url": "https://www.town.nagasu.lg.jp/hmap/pdf_a1/index.html"
+    },
+    {
+        "prefecture": "熊本県",
+        "city": "芦北町",
+        "url": "https://www.town.ashikita.lg.jp/bosai_site/bosaimap"
+    },
+    {
+        "prefecture": "熊本県",
+        "city": "あさぎり町",
+        "url": "https://www.town.asagiri.lg.jp/q/aview/109/14582.html"
+    },
+    {
+        "prefecture": "熊本県",
+        "city": "苓北町",
+        "url": "https://reihoku-kumamoto.jp/kiji003681/index.html"
+    },
+    {
+        "prefecture": "大分県",
+        "city": "大分市",
+        "url": "https://www.city.oita.oita.jp/o009/kurashi/anshinanzen/1367470455977.html"
+    },
+    {
+        "prefecture": "大分県",
+        "city": "別府市",
+        "url": "https://www.city.beppu.oita.jp/bousai_syoubou/bousaijyouhou/bousai_map/tsunami.html"
+    },
+    {
+        "prefecture": "大分県",
+        "city": "中津市",
+        "url": "https://nakatsu-bosai.jp/hazardmap/"
+    },
+    {
+        "prefecture": "大分県",
+        "city": "佐伯市",
+        "url": "https://www.city.saiki.oita.jp/bousai/kiji0031581/index.html"
+    },
+    {
+        "prefecture": "大分県",
+        "city": "臼杵市",
+        "url": "https://www.city.usuki.oita.jp/docs/2014020700206/"
+    },
+    {
+        "prefecture": "大分県",
+        "city": "津久見市",
+        "url": "https://www.city.tsukumi.oita.jp/soshiki/7/201.html"
+    },
+    {
+        "prefecture": "大分県",
+        "city": "豊後高田市",
+        "url": "https://www.city.bungotakada.oita.jp/site/bousai/list32.html"
+    },
+    {
+        "prefecture": "大分県",
+        "city": "杵築市",
+        "url": "https://gis.chklab.com/hazardkitsuki/#"
+    },
+    {
+        "prefecture": "大分県",
+        "city": "宇佐市",
+        "url": "https://www.city.usa.oita.jp/sougo/2_1/8/10393.html"
+    },
+    {
+        "prefecture": "大分県",
+        "city": "国東市",
+        "url": "https://www.city.kunisaki.oita.jp/hazardmap/"
+    },
+    {
+        "prefecture": "大分県",
+        "city": "姫島村",
+        "url": "https://www.himeshima.jp/hazardmap/"
+    },
+    {
+        "prefecture": "大分県",
+        "city": "日出町",
+        "url": "https://www.town.hiji.lg.jp/kurashi_tetsuzuki/bosai_bohan_shobo_kotsuanzen/bosai/452.html"
+    },
+    {
+        "prefecture": "宮崎県",
+        "city": "宮崎市",
+        "url": "https://www.city.miyazaki.miyazaki.jp/life/fire_department/hazard_map/803.html"
+    },
+    {
+        "prefecture": "宮崎県",
+        "city": "延岡市",
+        "url": "https://www.city.nobeoka.miyazaki.jp/soshiki/15/3338.html"
+    },
+    {
+        "prefecture": "宮崎県",
+        "city": "日南市",
+        "url": "https://www.city.nichinan.lg.jp/main/disaster/page014196.html"
+    },
+    {
+        "prefecture": "宮崎県",
+        "city": "日向市",
+        "url": "https://www.hyugacity.jp/sp/display.php?cont=180829153428"
+    },
+    {
+        "prefecture": "宮崎県",
+        "city": "串間市",
+        "url": "https://www.city.kushima.lg.jp/main/safety/cat/cat4/cat1/"
+    },
+    {
+        "prefecture": "宮崎県",
+        "city": "高鍋町",
+        "url": "https://www.town.takanabe.lg.jp/soshiki/somu/1/2/bousai/635.html"
+    },
+    {
+        "prefecture": "宮崎県",
+        "city": "新富町",
+        "url": "https://www.town.shintomi.lg.jp/item/13295.htm"
+    },
+    {
+        "prefecture": "宮崎県",
+        "city": "川南町",
+        "url": "https://www.town.kawaminami.miyazaki.jp/soshiki/2/1228.html"
+    },
+    {
+        "prefecture": "宮崎県",
+        "city": "都農町",
+        "url": "https://www.town.tsuno.lg.jp/article?articleId=604eb316889ebd12ec68497a"
+    },
+    {
+        "prefecture": "宮崎県",
+        "city": "門川町",
+        "url": "https://www.town.kadogawa.lg.jp/disaster/disaster_prevention/page001245.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "鹿児島市",
+        "url": "https://www.city.kagoshima.lg.jp/kikikanri/kurashi/bosai/bosai/map/tsunami.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "鹿屋市",
+        "url": "https://www.city.kanoya.lg.jp/syoubou/bousaimap/bousaimap1.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "枕崎市",
+        "url": "https://www.city.makurazaki.lg.jp/site/bousai/60.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "阿久根市",
+        "url": "https://www.city.akune.lg.jp/soshikikarasagasu/somuka/kikikanrigakari/4/3/1213.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "出水市",
+        "url": "https://www.city.kagoshima-izumi.lg.jp/page/page_20096.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "指宿市",
+        "url": "https://www.city.ibusuki.lg.jp/main/kyosei/page004526.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "西之表市",
+        "url": "http://www.city.nishinoomote.lg.jp/admin/soshiki/soumuka/bousaishoubou/bousai/disaster/234.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "垂水市",
+        "url": "http://www.city.tarumizu.lg.jp/kikikanri/kurashi/bosai/bosai/sougou-bousai-map/sougou-bousai-map.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "薩摩川内市",
+        "url": "https://www.satsumasendai-bousai.jp/index.php/bousaimap/"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "霧島市",
+        "url": "http://www.city-kirishima.jp/anshin/hazard_map.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "いちき串木野市",
+        "url": "https://www.city.ichikikushikino.lg.jp/machibou1/bosai/bosai/joho/hazard-map.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "南さつま市",
+        "url": "https://www2.wagmap.jp/minamisatsuma/Portal"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "志布志市",
+        "url": "https://www.city.shibushi.lg.jp/soshiki/2/1968.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "奄美市",
+        "url": "http://www.city.amami.lg.jp/somu/bosai/bosai/map/hazardmaptsunami.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "南九州市",
+        "url": "https://www.city.minamikyushu.lg.jp/koutsuu-bousai/anshin/bosai/map_jp/map.html?lay=saigai_01"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "姶良市",
+        "url": "http://www.city.aira.lg.jp/bosai/kurashi/bosai/bosai-map.html#津波浸水ﾊｻﾞｰﾄﾞﾏｯﾌﾟ"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "十島村",
+        "url": "http://www.tokara.jp/life/bousai/#001"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "大崎町",
+        "url": "https://www.town.kagoshima-osaki.lg.jp/so_syouboukotsu/kurashi/bohan/bosai/hazard-map/jishin/bosaimap.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "東串良町",
+        "url": "http://www.higashikushira.com/docs/2018020500019/"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "錦江町",
+        "url": "https://www.town.kinko.lg.jp/somu-h/kurashi/bosaibohan/bosai/saigai/bosaijoho.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "南大隅町",
+        "url": "https://www.town.minamiosumi.lg.jp/soumu/kurashi/bosai/bosai/saigaitaisaku/bosai-map.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "肝付町",
+        "url": "https://kimotsuki-town.jp/bosai_anzen_1/bosai/1929.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "中種子町",
+        "url": "https://town.nakatane.kagoshima.jp/syoubou/kurashi/bosai-bohan/bosai/jishin/jishinbosai-map.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "南種子町",
+        "url": "http://www.town.minamitane.kagoshima.jp/disaster/1.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "屋久島町",
+        "url": "http://www.town.yakushima.kagoshima.jp/prevention/area-plan/"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "大和村",
+        "url": "https://www.vill.yamato.lg.jp/somu/kurashi/bosai-kyukyu/map2020.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "瀬戸内町",
+        "url": "http://www.town.setouchi.lg.jp/syouboubousai/cho/kurashi/bohan/bosai/hazado.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "喜界町",
+        "url": "https://www.town.kikai.lg.jp/bosai/kurashi/bosai/kikaichohazard-map/hazard-map.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "徳之島町",
+        "url": "https://www.tokunoshima-town.org/soumuka/kurashi/bosai/bosai/hazard-map/bosaimap.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "天城町",
+        "url": "https://www.town.amagi.lg.jp/docs/445.html"
+    },
+    {
+        "prefecture": "鹿児島県",
+        "city": "知名町",
+        "url": "https://www.town.china.lg.jp/soumu/kurasu/bosai/bosai_map.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "url": "https://www.sonicweb-asp.jp/naha/"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "宜野湾市",
+        "url": "https://www.city.ginowan.lg.jp/soshiki/somu/4/2/torikumi/2442.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "石垣市",
+        "url": "https://www.city.ishigaki.okinawa.jp/kurashi_gyosei/kurashi/anshin_anzen/bosai/2485.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "浦添市",
+        "url": "https://www.city.urasoe.lg.jp/article?articleId=609e79ed3d59ae2434bfe670"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "名護市",
+        "url": "https://www.city.nago.okinawa.jp/kurashi/2018071900592/"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "糸満市",
+        "url": "https://www.city.itoman.lg.jp/site/bousai-itoman/2195.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "沖縄市",
+        "url": "https://www.city.okinawa.okinawa.jp/k002-001/anshin/bousai/bousai/hinan/506.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "豊見城市",
+        "url": "https://www.city.tomigusuku.lg.jp/kurashi_tetsuzuki/anshin_anzen/1/1/index.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "うるま市",
+        "url": "https://www.city.uruma.lg.jp/tiiki/153/1578/1596"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "宮古島市",
+        "url": "https://www.city.miyakojima.lg.jp/kurashi/bousai/bousaijyouhou/bousaimap.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "南城市",
+        "url": "https://www.bousai-nanjo.jp/material"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "国頭村",
+        "url": "http://www.vill.kunigami.okinawa.jp/bousai/"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "大宜味村",
+        "url": "https://www.vill.ogimi.okinawa.jp/kurashi/anzen_anshin/bosai/526.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "東村",
+        "url": "https://www.vill.higashi.okinawa.jp/kurashi_tetsuzuki/anzen_anshin/562.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "今帰仁村",
+        "url": "https://www.nakijin.jp/pagtop/kakuka/somuka/3/2/5/611.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "本部町",
+        "url": "https://www.town.motobu.okinawa.jp/bousai#03"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "恩納村",
+        "url": "http://www.vill.onna.okinawa.jp/living/disaster/webbousaimap/"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "宜野座村",
+        "url": "http://www.vill.ginoza.okinawa.jp/news/wp-content/uploads/2012/02/bousaiginoza.pdf#page=163"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "金武町",
+        "url": "https://www.town.kin.okinawa.jp/kurashi_tetsuzuki/anzen_anshin/bosai/1/816.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "読谷村",
+        "url": "https://www.vill.yomitan.okinawa.jp/kurashi/anzen_anshin/bosai/map/2368.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "嘉手納町",
+        "url": "https://www.town.kadena.okinawa.jp/life/kur97.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "北谷町",
+        "url": "https://www.chatan.jp/seikatsuguide/anshin_anzen/taisaku/bousai_map.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "北中城村",
+        "url": "http://www.vill.kitanakagusuku.lg.jp/sonsei/bousai/661.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "中城村",
+        "url": "https://www.vill.nakagusuku.okinawa.jp/menuIndex.jsp?id=53415&menuid=11674&funcid=28"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "西原町",
+        "url": "http://www.town.nishihara.okinawa.jp/link/bousai.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "与那原町",
+        "url": "https://www.town.yonabaru.okinawa.jp/soshiki/8/132.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "渡嘉敷村",
+        "url": "http://www.vill.tokashiki.okinawa.jp/aisatsu/bousai"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "座間味村",
+        "url": "https://www.vill.zamami.okinawa.jp/disaster/2013/09/post-3.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "渡名喜村",
+        "url": "http://www.vill.tonaki.okinawa.jp/UserFiles/File/img/bousaimap2020.pdf"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "伊平屋村",
+        "url": "https://www.vill.iheya.okinawa.jp/soshiki/2/1068.html"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "久米島町",
+        "url": "https://www.town.kumejima.okinawa.jp/hazardmap/"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "八重瀬町",
+        "url": "https://www.town.yaese.lg.jp/docs/2014042500044/"
+    },
+    {
+        "prefecture": "沖縄県",
+        "city": "竹富町",
+        "url": "https://www.town.taketomi.lg.jp/bousai/tsunami/"
+    }
+]
